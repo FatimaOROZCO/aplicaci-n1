@@ -16,6 +16,7 @@ namespace aplicación1
             {
                 for (int c = 0; c < 5; c++);
                 {
+                    Console.Writeline("fila:" +f+"Nombre:"+c);
                     Console.Write("ingrese los datos");
                     mat[c, f] = char.Parse(Console.ReadLine());
 
