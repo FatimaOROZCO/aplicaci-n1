@@ -21,7 +21,7 @@ namespace aplicación1
 
                     Console.WriteLine("--------------------------------------------- ----- ");
 
-                    para(int f = 0;  f < 9; f++);
+                    para(int f = 0;  f < 15; f++);
                     {
 
                         Console.WriteLine(dato[f]);
@@ -31,7 +31,7 @@ namespace aplicación1
                     Console.WriteLine("Ingrese caracter a buscar");
                     buscar = char.Parse(Console.ReadLine());
 
-                    para(int f = 0; f < == 9; f++);
+                    para(int f = 0; f < == 15; f++);
                     {
                         si(dato[f] = buscar)
                     }
